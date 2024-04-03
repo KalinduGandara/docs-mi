@@ -2,7 +2,7 @@
 
 Let's get started with WSO2 Micro Integrator by running a simple integration use case in your local environment. 
 
-## Before you begin...
+## Before you begin
 
 1. Install Java SE Development Kit (JDK) version 11.
 2. In the environment variables, set the `JAVA_HOME` environment variable.
