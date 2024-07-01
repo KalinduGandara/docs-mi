@@ -144,7 +144,7 @@ ElasticSearch supports basic authentication via an internal user store. To set u
 
 ## Configure Micro Integrator
 
-To enable operational analytics, you must update the deployment.toml file with the required configurations and add a new log appender so that the analytics data will be stored in a dedicated log file.
+To enable operational analytics, navigate to the `<MI_HOME>/conf` directory and update the `deployment.toml` file with the required configurations and add a new log appender so that the analytics data will be stored in a dedicated log file.
 
 ### Enabling statistics for artifacts
 
